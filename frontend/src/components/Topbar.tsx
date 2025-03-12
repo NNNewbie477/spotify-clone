@@ -28,7 +28,7 @@ const Topbar = () => {
             className={cn(buttonVariants({ variant: "outline" }))}
           >
             <LayoutDashboardIcon className="size-4  mr-2" />
-            管理员界面
+            管理界面
           </Link>
         )}
 
